@@ -22,7 +22,7 @@ This project uses a retail dataset with **62,885 sales records** and **five tabl
 
 ### ER Diagram
 
-![ER Diagram](globalelectonics.drawio.png)
+![ER Diagram](GlobalElectronic.drawio.png)
 
 ---
 
